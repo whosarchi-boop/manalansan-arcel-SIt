@@ -1,0 +1,6 @@
+{
+  "name": "Arcel's Cat Sanctuary - Healing & Funny Cats for Mental Health",
+  "description": "A healing haven of funny, jacked, and therapeutic cat images to boost mental health and dopamine. Free high-res downloads, team mission, and cat submission portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
